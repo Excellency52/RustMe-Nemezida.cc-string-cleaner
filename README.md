@@ -1,0 +1,1 @@
+The code is a C++ program that clears addresses in memory by finding strings with specific content. This example is used to clear strings from java.exe that were left over from nemezida.cc, a cheat client for the rustme project
